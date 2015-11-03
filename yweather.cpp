@@ -1,3 +1,12 @@
+/*
+ *----------------------------------------------------
+ *
+ * Yahoo weather C++ source code
+ * Project repository: https://github.com/abusayeedomar/yahoo-weather-cpp/
+ *
+ ----------------------------------------------------*/
+
+
 #include <windows.h>
 #include <string>
 #include <stdio.h>
